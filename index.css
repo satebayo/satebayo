@@ -1,0 +1,65 @@
+body{
+  background-color: rgb(189, 159, 103);
+  
+}
+.satebayo_ava {
+  width: 500px;
+}
+html {
+ text-align: center;
+}
+.satebayo_twitch {
+  font-size: 100px;
+margin: auto;
+width: 1000px;
+background-color: rgb(95, 20, 165);
+transition: 0.3s ease;
+}
+.satebayo_nick {
+  font-size: 40px;
+  font-weight: bolder;
+}
+.satebayo_bio {
+font-size: 30px;
+font-weight: bold;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.sigma {
+  width: 500px;
+}
+.monki {
+  width: 500px;
+}
+#hah {
+  width: 312px;
+}
+.satebayo_matches {
+  font-size: 50px;
+  font-weight: bold;
+  font-family: 'Courier New', Courier, monospace;
+}
+.banana {
+  width: 1000px;
+}
+.morph {
+  width: 500px;
+}
+.voker {
+  width: 500px;
+}
+.satebayo_twitch:hover {
+  transform: scale(1.5);
+  transition-duration: 0.5s;
+  background-color: rgb(120, 26, 207);
+  font-size: 100px;
+  color: white;
+  border-radius: 200px;
+}
+.twitch:hover {
+  transition: 0.5s;
+  color: white;
+}
+a {
+  text-decoration: none;
+  color: rgb(185, 102, 233);
+}
