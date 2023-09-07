@@ -72,3 +72,16 @@ a {
   min-height: 100%;
   z-index: -1; 
 }
+#dota_clip {
+width: 100%;
+}
+.haha {
+  font-size: 50px;
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif;
+}
+.end { 
+  font-size: 60px;
+  font-weight: bolder;
+  font-family: Arial, Helvetica, sans-serif;
+}
