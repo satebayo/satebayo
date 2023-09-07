@@ -58,8 +58,17 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 .twitch:hover {
   transition: 0.5s;
   color: white;
+  transition: 0.3s ease;
 }
 a {
   text-decoration: none;
   color: rgb(185, 102, 233);
+}
+#background-video {
+  position: fixed; 
+  right: 0;
+  bottom: -800px;
+  min-width: 100%;
+  min-height: 100%;
+  z-index: -1; 
 }
