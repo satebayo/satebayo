@@ -12,7 +12,7 @@ html {
   font-size: 100px;
 margin: auto;
 width: 1000px;
-background-color: rgb(95, 20, 165);
+background-color: rgb(54, 0, 104);
 transition: 0.3s ease;
 }
 .satebayo_nick {
@@ -50,7 +50,7 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 .satebayo_twitch:hover {
   transform: scale(1.5);
   transition-duration: 0.5s;
-  background-color: rgb(120, 26, 207);
+  background-color: rgb(132, 0, 255);
   font-size: 100px;
   color: white;
   border-radius: 200px;
@@ -62,7 +62,7 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 a {
   text-decoration: none;
-  color: rgb(185, 102, 233);
+  color: rgb(255, 255, 255);
 }
 #background-video {
   position: fixed; 
@@ -81,7 +81,27 @@ width: 100%;
   font-family: 'Times New Roman', Times, serif;
 }
 .end { 
-  font-size: 60px;
+  font-size: 70px;
   font-weight: bolder;
   font-family: Arial, Helvetica, sans-serif;
+}
+.donate {
+  color: white;
+  background-color: rgb(122, 80, 0);
+  font-size: 100px;
+  margin: auto;
+  font-weight: bolder;
+  font-family:Arial, Helvetica, sans-serif;
+  display: inline-block;
+  width:30%;
+  transition: 0.3s ease;
+ margin-top: 25px;
+}
+.donate:hover {
+  transform: scale(1.5);
+  transition-duration: 0.5s;
+  background-color: orange;
+  font-size: 100px;
+  color: white;
+  border-radius: 200px;
 }
